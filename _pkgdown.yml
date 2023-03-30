@@ -1,4 +1,19 @@
 url: https://sfcheung.github.io/semboot/
+
+destination: docs
+
 template:
   bootstrap: 5
+  bootswatch: spacelab
+  theme: a11y-light
+  bslib:
+    pkgdown-nav-height: 100px
+    bg: "#EFEFEF"
+    fg: "#000000"
+    primary: "#0051A8"
+    # base_font: {google: "Cabin"}
+    # heading_font: {google: "Cabin"}
+    # code_font: {google: "Cousine"}
 
+navbar:
+  bg: primary
