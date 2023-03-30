@@ -1,0 +1,20 @@
+Package: semboot
+Title: Bootstrap diagnostics in structural equation modeling
+Version: 0.0.1.9000
+Authors@R:
+    c(person(given = "Shu Fai",
+             family = "Cheung",
+             role = c("aut", "cre"),
+             email = "shufai.cheung@gmail.com",
+             comment = c(ORCID = "0000-0002-9871-9448")))
+Description: A collection of functions for forming
+  bootstrap confidence interval, doing bootstrap diagnostics,
+  and assessing case influence in structural equation
+  modeling.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
