@@ -3,6 +3,7 @@
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![Code size](https://img.shields.io/github/languages/code-size/sfcheung/semboot.svg)](https://github.com/sfcheung/semboot)
 [![Last Commit at Main](https://img.shields.io/github/last-commit/sfcheung/semboot.svg)](https://github.com/sfcheung/semboot/commits/main)
+[![R-CMD-check](https://github.com/sfcheung/semboot/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sfcheung/semboot/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 *UNDER DEVELOPMENT* *NOT YET READY* *PLEASE DO NOT INSTALL*
